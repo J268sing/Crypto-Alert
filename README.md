@@ -1,6 +1,8 @@
 # Crypto Alert
 This app shows notifications when crypto value exceeds your saved limit for Bitcoin or Ethereum.
 
+![login](https://github.com/tejmann/fakebook/blob/master/fb_signin_new.gif)&nbsp;&nbsp;&nbsp;&nbsp;![wall](https://github.com/tejmann/fakebook/blob/master/fb_wall_new.gif)&nbsp;&nbsp;&nbsp;&nbsp;
+![search](https://github.com/tejmann/fakebook/blob/master/fb_search_new.gif)
 
 ## Getting Started
 
