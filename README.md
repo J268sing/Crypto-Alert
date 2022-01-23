@@ -1,5 +1,5 @@
 # Crypto Alert
-This app shows notifications when crypto value exceeds your saved limit.
+This app shows notifications when crypto value exceeds your saved limit for Bitcoin or Ethereum.
 
 
 ## Getting Started
@@ -35,3 +35,13 @@ You need the following installed:
 * [Cryptocompare](https://www.cryptocompare.com) - API Used for real-time, high-quality and reliable cryptocurrency data
 * [Firebase](https://firebase.google.com) - to store user data
 * [Firebase](https://firebase.google.com) - to store user data
+
+
+
+
+## Upcoming features
+
+- [responsive UI](https://github.com/J268sing/MyCrypto) with integration of all cryptocurrencies.
+- `Fake Holdings` allowing users to buy crypto with paper money.
+- `Smart Calculations` to allow users to track their holdings and it's change during last 24 hours.
+- `No Registration` to remain completely anonymous where app won't track private data about trading strategies.
