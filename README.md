@@ -2,10 +2,8 @@
 This app shows notifications when crypto value exceeds your saved limit for Bitcoin or Ethereum.
 
 
-<img src="https://github.com/J268sing/Crypto-Alert/blob/main/limits.gif" width="250" height="250"/>
-<img src="ttps://github.com/J268sing/Crypto-Alert/blob/main/notification.gif" width="250" height="250"/>
-
-![limit](https://github.com/J268sing/Crypto-Alert/blob/main/limits.gif)&nbsp;&nbsp;&nbsp;&nbsp;![notification](https://github.com/J268sing/Crypto-Alert/blob/main/notification.gif)&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/J268sing/Crypto-Alert/blob/main/limits.gif" width="250" height="400"/>
+<img src="ttps://github.com/J268sing/Crypto-Alert/blob/main/notification.gif" width="250" height="400"/>
 
 ## Getting Started
 
