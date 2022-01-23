@@ -1,4 +1,4 @@
-# Crypto Alat
+# Crypto Alert
 This app shows notifications when crypto value exceeds your saved limit.
 
 
