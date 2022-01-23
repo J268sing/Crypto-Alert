@@ -8,8 +8,8 @@ import (
 )
 
 const (
-	instanceID = "PUSHER_BEAMS_INSTANCE_ID"
-	secretKey  = "PUSHER_BEAMS_SECRET_KEY"
+	instanceID = "1c131ff1-b295-4b93-91cb-e6b944ac7186"
+	secretKey  = "DC495979AC2F2526D455DFB5E3FB4D1FCEA4F813B835E0809C62A517DA0A12F4"
 )
 
 // SendNotification sends push notification to devices
